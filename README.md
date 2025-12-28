@@ -8,17 +8,18 @@ Sales-Analytics-Capstone-SQL-PowerBI/ │ ├── 📁 Dataset/ │ ├── 
 SQL Analysis – Key Business Questions
 
 Average number of orders per customer and identification of high-value repeat customers.
-Customer order patterns by city and country.
-Clustering customers by total spend, order count, and preferred categories.
-Top-performing products and categories contributing to revenue.
-Correlation between customer location and product category.
-Frequency of orders among different customer segments.
-Geographic and title-wise distribution of employees.
-Trends in hire dates across employee titles.
-Patterns in employee titles and courtesy titles. 10.Relationship between product pricing, stock levels, and sales.
-Seasonal changes in product demand.
-Identification of anomalies in sales/revenue.
-image
+1.Customer order patterns by city and country.
+2.Clustering customers by total spend, order count, and preferred categories.
+3.Top-performing products and categories contributing to revenue.
+4.Correlation between customer location and product category.
+5.Frequency of orders among different customer segments.
+6.Geographic and title-wise distribution of employees.
+7.Trends in hire dates across employee titles.
+8.Patterns in employee titles and courtesy titles. 
+9.Seasonal changes in product demand.
+10.Relationship between product pricing, stock levels, and sales.
+11,Identification of anomalies in sales/revenue.
+
 📊 Power BI Dashboard Highlights 1️⃣ Customer Insights
 
 🌍 Map Chart: Customer distribution across continents (North America, Europe, Asia).
