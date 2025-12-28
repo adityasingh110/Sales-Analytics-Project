@@ -16,3 +16,46 @@ SQL Analysis – Key Business Questions
 10.	Seasonal changes in product demand.
 11.	Identification of anomalies in sales/revenue.
 
+image
+📊 Power BI Dashboard Highlights 1️⃣ Customer Insights
+
+🌍 Map Chart: Customer distribution across continents (North America, Europe, Asia).
+
+image
+📊 Bar Chart: Count of customers by ID and by month.
+
+image
+🧭 Pie Chart: Distribution of contact titles by region.
+
+image
+📈 Line Chart: Yearly growth trend in customer orders.
+
+image
+2️⃣ Employee Insights
+
+👔 Bar Chart: Employee count by country and job title.
+
+🕒 Bar Chart: Year-wise joining trend of employees.
+
+🌳 Org Chart: Reporting hierarchy of employees.
+
+💼 Bar Chart: Revenue contribution by shipping city.
+
+3️⃣ Key Metrics
+
+🚢 Average Shipping Duration: Tracked and visualized using card visuals.
+
+💰 Total Revenue by Ship City: City-level comparison using bar chart.
+
+🧠 Tools & Technologies Tool Purpose SQL - Data extraction, cleaning, and transformation Power BI - Data visualization and interactive dashboarding Excel - Data preprocessing GitHub - Project version control and portfolio showcase
+
+Key Insights
+
+Customers from Europe and North America contributed the highest order volumes. Top 5 customers were responsible for 30%+ of total orders. Cunewalde city generated the highest total revenue. Vice President, Sales had the maximum team reporting structure. Employee hiring peaked in 1994–1995 period. Product demand showed a steady upward trend during early 1996.
+
+Regional supplier distribution and pricing trends. Supplier pricing and category relationships across regions.
+
+🎯 Conclusion This capstone demonstrates a complete end-to-end analysis pipeline — from data exploration in SQL to business visualization in Power BI. It provides actionable insights into customer segmentation, employee management, supplier distribution, and revenue trends.
+
+
+
